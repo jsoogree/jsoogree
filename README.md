@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Joel Soogree and I am in Section NDD for OPS435
 
 <!--
 **jsoogree/jsoogree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
